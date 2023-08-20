@@ -1,1 +1,19 @@
 /* your code */
+table{
+	border-collapse: collapse;
+  border-radius: 5px;
+	overflow:hidden;
+}
+thead{
+	background-color: royalblue;
+	color: white;
+}
+#row2{
+	background-color: whitesmoke;
+}
+th,td{
+	padding-inline: 20px;
+	 padding-top: 10px;
+    padding-bottom: 10px;
+	text-align: center;
+}
